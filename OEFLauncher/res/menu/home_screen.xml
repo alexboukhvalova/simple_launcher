@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:id="@+id/action_exit"
+        android:title="@string/action_exit"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    
+    <item android:id="@+id/action_add_apps"
+        android:title="@string/action_add_apps"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
